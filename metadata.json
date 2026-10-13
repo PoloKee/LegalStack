@@ -1,0 +1,6 @@
+{
+  "name": "LegalStack Architect",
+  "description": "Enterprise-grade legal, financial separation, compliance, and 42-app portfolio triage suite for indie founders and solo developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
